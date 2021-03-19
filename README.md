@@ -1,3 +1,3 @@
 # KalkulatorScient-Java
 ## Screenshoot
-![SS](ss.PNG)
+![SS](ss.png)
