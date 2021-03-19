@@ -1,3 +1,3 @@
 # KalkulatorScient-Java
-## Screenshoot
+## Tampilan Aplikasi
 ![SS](ss.png)
